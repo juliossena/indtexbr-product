@@ -1,23 +1,47 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "iaodxjrjlhyfof",
+    "password": "1255155bdef2b58313823519ee8aca8e0f6567f11489dcaa93a866aa0aa255bf",
+    "database": "ddj7428opegb9p",
+    "host": "ec2-54-198-252-9.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "iaodxjrjlhyfof",
+    "password": "1255155bdef2b58313823519ee8aca8e0f6567f11489dcaa93a866aa0aa255bf",
+    "database": "ddj7428opegb9p",
+    "host": "ec2-54-198-252-9.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "iaodxjrjlhyfof",
+    "password": "1255155bdef2b58313823519ee8aca8e0f6567f11489dcaa93a866aa0aa255bf",
+    "database": "ddj7428opegb9p",
+    "host": "ec2-54-198-252-9.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "port": 5432,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   }
 }
